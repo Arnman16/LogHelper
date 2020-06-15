@@ -1,0 +1,7 @@
+keyboard==0.13.5
+pywin32==227
+docx==0.2.4
+mailmerge==2.1.0
+pandas==1.0.4
+PyQt5==5.15.0
+SQLAlchemy==1.3.17
